@@ -1,22 +1,15 @@
-<<<<<<< HEAD
 @font-face {
     font-family: miFuente;
     src: url(/Coronet\ Bold.ttf) format('truetype');
 }
 
-=======
->>>>>>> 3dde0aa5143832fc38a9e1fdb3512bcd06972358
 
 body{
     background-color: black !important;
  }
  
  .navbar {
-<<<<<<< HEAD
      font-family: miFuente !important;
-=======
-     font-family: 'coronet-regular', sans-serif;
->>>>>>> 3dde0aa5143832fc38a9e1fdb3512bcd06972358
  }
  
  .navbar-brand{
