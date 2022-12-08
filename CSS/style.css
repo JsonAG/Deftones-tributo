@@ -1,7 +1,12 @@
 
 @font-face {
+<<<<<<< HEAD
     font-family: miFuente;
     src: url(/Coronet\ Bold.ttf) format('truetype');
+=======
+    font-family: "Coronet Bold";
+    src: url("Coronet Bold.ttf") format('truetype');
+>>>>>>> 3dde0aa5143832fc38a9e1fdb3512bcd06972358
 }
 
 
@@ -10,7 +15,11 @@ body{
 }
 
 .navbar {
+<<<<<<< HEAD
     font-family: miFuente !important;
+=======
+    font-family: "Coronet Bold" !important;
+>>>>>>> 3dde0aa5143832fc38a9e1fdb3512bcd06972358
 }
 
 .navbar-brand{
