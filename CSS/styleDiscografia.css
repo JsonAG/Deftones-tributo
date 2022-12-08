@@ -1,19 +1,10 @@
-@font-face {font-family: "Coronet";
-    src: url("http://db.onlinewebfonts.com/t/dff2ec390cf28c42ac8208536323be9a.eot"); /* IE9*/
-    src: url("http://db.onlinewebfonts.com/t/dff2ec390cf28c42ac8208536323be9a.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
-    url("http://db.onlinewebfonts.com/t/dff2ec390cf28c42ac8208536323be9a.woff2") format("woff2"), /* chrome firefox */
-    url("http://db.onlinewebfonts.com/t/dff2ec390cf28c42ac8208536323be9a.woff") format("woff"), /* chrome firefox */
-    url("http://db.onlinewebfonts.com/t/dff2ec390cf28c42ac8208536323be9a.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
-    url("http://db.onlinewebfonts.com/t/dff2ec390cf28c42ac8208536323be9a.svg#Coronet") format("svg"); /* iOS 4.1- */
-}
-
 
 body{
     background-color: black !important;
  }
  
  .navbar {
-     font-family: 'Coronet';
+     font-family: 'coronet-regular', sans-serif;
  }
  
  .navbar-brand{
